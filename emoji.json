@@ -2,7 +2,7 @@
   {
     "name": "pink",
     "folder": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/pink/",
-    "icon": "•⩊•",
+    "icon": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/pink/01sparkle.gif",
     "items": [
       "01sparkle",
       "02angrystress",
@@ -44,7 +44,7 @@
   {
     "name": "tiny",
     "folder": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/tiny/",
-    "icon": "🐾",
+    "icon": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/tiny/250-4.gif",
     "items": [
       "154-angry",
       "154-barf",
