@@ -1,7 +1,8 @@
 {
 "name": "tiny",
-"folder": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/tiny",
-"icon": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/tiny/250-4.gif",
+"prefix": "",
+"type":  "gif",
+"icon": "250-4",
 "items": [
     "154-angry",
     "154-barf",

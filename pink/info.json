@@ -1,7 +1,8 @@
 {
 "name": "pink",
-"folder": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/pink",
-"icon": "https://cdn.jsdelivr.net/gh/esperanzaee/wlemojis@main/pink/01sparkle.gif",
+"prefix": "",
+"type":  "gif",
+"icon": "01sparkle",
 "items": [
     "01sparkle",
     "02angrystress",
